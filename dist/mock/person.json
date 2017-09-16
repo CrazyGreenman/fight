@@ -1,0 +1,25 @@
+
+[
+    {
+        "figure": "./img/人物1.png",
+        "topJump": "./img/上1.png",
+        "down": "./img/下1.png",
+        "adv": "./img/前1.png",
+        "back": "./img/后1.png",
+        "shited": "./img/中招1.png",
+        "fist": "./img/拳1.png",
+        "leg": "./img/脚1.png",
+        "fistInAir": "./img/飞拳1.png",
+        "legInAir": "./img/飞脚1.png",
+        "moveA":"./img/移动a.png",
+        "aa":"./img/大招1a.png",
+        "bb":"./img/大招1b.png",
+        "cc":"./img/大招1c.png",
+        "dd":"./img/大招1d.png",
+        "ff":"./img/大招1f.png"
+    },
+    {
+
+    }
+
+]
